@@ -146,4 +146,4 @@ Optimized image viewing
 
 GitHub: https://github.com/manojasomarathna
 
-LinkedIn: https://www.linkedin.com/in/manoja-m-somarathna-8018aa25a/
+LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7375097691950809088/
